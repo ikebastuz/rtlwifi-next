@@ -22,6 +22,7 @@
  * Larry Finger <Larry.Finger@lwfinger.net>
  *
  *****************************************************************************/
+#define IEEE80211_NUM_BANDS NUM_NL80211_BANDS
 
 #include "wifi.h"
 #include "rc.h"
